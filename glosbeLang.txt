@@ -1,0 +1,2323 @@
+Aari                          - aiw
+Abadi                         - kbt
+Abanyom                       - abm
+Abar                          - mij
+Abau                          - aau
+Abaza                         - abq
+Abkhazian                     - ab
+Abkhazian                     - abk
+Abui                          - abz
+Abun                          - kgr
+Abé                           - aba
+Achi                          - acr
+Achinese                      - ace
+Achuar-Shiwiar                - acu
+Achumawi                      - acv
+Acoli                         - ach
+Adangme                       - ada
+Adele                         - ade
+Adi                           - adi
+Adioukrou                     - adj
+Adiwasi Garasia               - gas
+Adnyamathanha                 - adt
+Adyghe                        - ady
+Adzera                        - adz
+Afar                          - aa
+Afar                          - aar
+Afrikaans                     - af
+Afrikaans                     - afr
+Agariya                       - agi
+Aghul                         - agx
+Agob                          - kit
+Aguacateco                    - agu
+Aguano                        - aga
+Aguaruna                      - agr
+Ahtena                        - aht
+Ahwai                         - nfd
+Ainu                          - aib
+Ainu                          - ain
+Airoran                       - air
+Ajië                          - aji
+Aka-Bo                        - akm
+Akan                          - ak
+Akan                          - aka
+Akawaio                       - ake
+Ake                           - aik
+Akha                          - ahk
+Akhvakh                       - akv
+Akkadian                      - akk
+Akkala Sami                   - sia
+Aklanon                       - akl
+Akolet                        - akt
+Akpes                         - ibe
+Alabama                       - akz
+Alabat Island Agta            - dul
+Alamblak                      - amp
+Albanian                      - sq
+Albanian                      - sqi
+Alcozauca Mixtec              - xta
+Alekano                       - gah
+Aleut                         - ale
+Algerian Arabic               - arq
+Algonquin                     - alq
+Alumu-Tesu                    - aab
+Alune                         - alp
+Alutor                        - alr
+Alyawarr                      - aly
+Ama                           - amm
+Amahai                        - amq
+Amahuaca                      - amc
+Amaimon                       - ali
+Amanab                        - amn
+Amanayé                       - ama
+Amara                         - aie
+Amarakaeri                    - amr
+Amatlán Zapotec               - zpo
+Ambai                         - amk
+Ambonese Malay                - abs
+Ambulas                       - abt
+Amdang                        - amj
+Amharic                       - am
+Amharic                       - amh
+Amis                          - ami
+Ana Tinga Dogon               - dti
+Anakalangu                    - akg
+Ancient Egyptian              - egy
+Ancient Greek                 - grc
+Ancient Hebrew                - hbo
+Ancient Macedonian            - xmk
+Andalusian Arabic             - xaa
+Andaqui                       - ana
+Andi                          - ani
+Andoque                       - ano
+Aneityum                      - aty
+Angami Naga                   - njm
+Anglo-Norman                  - xno
+Angloromani                   - rme
+Angor                         - agg
+Ankave                        - aak
+Anong                         - nun
+Ansus                         - and
+Anuta                         - aud
+Ao Naga                       - njo
+Apalaí                        - apy
+Apali                         - ena
+Apatani                       - apt
+Apma                          - app
+Apurinã                       - apu
+Aquitanian                    - xaq
+Arabela                       - arl
+Arabic                        - ar
+Arabic                        - ara
+Aragonese                     - an
+Aragonese                     - arg
+Araki                         - akr
+Aramaic                       - arc
+Araona                        - aro
+Arapaho                       - arp
+Araucanian                    - arn
+Arawak                        - arw
+Arbore                        - arv
+Arbëreshë Albanian            - aae
+Archi                         - aqc
+Are'are                       - alu
+Argobba                       - agj
+Arguni                        - agf
+Arikara                       - ari
+Arin                          - xrn
+Armenian                      - hy
+Armenian                      - hye
+Aromanian                     - rup
+Arosi                         - aia
+Arpitan                       - frp
+Arvanitika Albanian           - aat
+Ashe                          - ahs
+Ashkun                        - ask
+Asháninka                     - cni
+Assamese                      - as
+Assamese                      - asm
+Assan                         - xss
+Assiniboine                   - asb
+Assyrian Neo-Aramaic          - aii
+Asturian                      - ast
+Asu                           - asa
+Asumboa                       - aua
+Atakapa                       - aqp
+Atayal                        - tay
+Athpariya                     - aph
+Atikamekw                     - atj
+Attié                         - ati
+Auhelawa                      - kud
+Avaric                        - av
+Avaric                        - ava
+Avestan                       - ae
+Avestan                       - ave
+Avokaya                       - avu
+Awa                           - awb
+Awa-Cuaiquer                  - kwi
+Awabakal                      - awk
+Awadhi                        - awa
+Aweer                         - bob
+Awetí                         - awe
+Awiyaana                      - auy
+Awjilah                       - auj
+Awngi                         - awn
+Ayere                         - aye
+Ayiwo                         - nfl
+Aymara                        - ay
+Aymara                        - aym
+Ayu                           - ayu
+Azerbaijani                   - az
+Azerbaijani                   - aze
+Baan                          - bvj
+Babatana                      - baa
+Babine                        - bcr
+Babuza                        - bzg
+Bactrian                      - xbc
+Badaga                        - bfq
+Bafanji                       - bfj
+Bafut                         - bfd
+Bagirmi                       - bmi
+Bagvalal                      - kva
+Baharna Arabic                - abv
+Bahnar                        - bdq
+Bai                           - bdj
+Bainouk-Gunyaamolo            - bcz
+Bakhtiari                     - bqi
+Balanta-Kentohe               - ble
+Bali                          - bcn
+Balinese                      - ban
+Balti                         - bft
+Baluan-Pam                    - blq
+Baluchi                       - bal
+Bambara                       - bam
+Bambara                       - bm
+Bambassi                      - myf
+Bamwe                         - bmg
+Banda                         - bnd
+Banda-Bambari                 - liy
+Bandi                         - bza
+Bandjalang                    - bdy
+Bangala                       - bxg
+Bangi                         - bni
+Bangi Me                      - dba
+Baniwa                        - bwi
+Banjar                        - bjn
+Bankagooma                    - bxw
+Bannoni                       - bcm
+Bantik                        - bnq
+Baoulé                        - bci
+Barasana-Eduria               - bsn
+Barbareño                     - boi
+Barein                        - bva
+Bariai                        - bch
+Baruga                        - bjz
+Baruya                        - byr
+Barí                          - mot
+Basa                          - bzw
+Basaa                         - bas
+Bashkir                       - ba
+Bashkir                       - bak
+Basketo                       - bst
+Basque                        - eu
+Basque                        - eus
+Batak Alas-Kluet              - btz
+Batak Karo                    - btx
+Batak Toba                    - bbc
+Bats                          - bbl
+Batuley                       - bay
+Baure                         - brg
+Bavarian                      - bar
+Beaver                        - bea
+Beja                          - bej
+Belarusian                    - be
+Belarusian                    - bel
+Bemba                         - bem
+Bemba                         - bmy
+Bena                          - bez
+Bena                          - yun
+Bench                         - bcq
+Bende                         - bdp
+Beng                          - nhb
+Benga                         - bng
+Bengali                       - ben
+Bengali                       - bn
+Beothuk                       - bue
+Berbice Creole Dutch          - brc
+Berinomo                      - bit
+Berom                         - bom
+Berti                         - byt
+Betawi                        - bew
+Bezhta                        - kap
+Bhojpuri                      - bho
+Biak                          - bhw
+Biao                          - byk
+Biem                          - bmc
+Big Nambas                    - nmb
+Bikol                         - bik
+Bini                          - bin
+Binongan Itneg                - itb
+Birale                        - bxe
+Biseni                        - ije
+Bishnupriya                   - bpy
+Bislama                       - bi
+Bislama                       - bis
+Blin                          - byn
+Bo-Rukul                      - mae
+Bobot                         - bty
+Bodo                          - boy
+Bodo                          - brx
+Boghom                        - bux
+Boko                          - bqc
+Bokobaru                      - bus
+Bole                          - bol
+Bolinao                       - smk
+Bonan                         - peh
+Bondei                        - bou
+Bora                          - boa
+Border Kuna                   - kvn
+Borong                        - ksr
+Borôro                        - bor
+Bosnian                       - bos
+Bosnian                       - bs
+Botlikh                       - bph
+Botolan Sambal                - sbl
+Bouyei                        - pcc
+Brahui                        - brh
+Breton                        - br
+Breton                        - bre
+Bribri                        - bzd
+Brithenig                     - bzt
+Broome Pearling Lugger Pidgin - bpl
+Brunei                        - kxd
+Brunei Bisaya                 - bsb
+Bu                            - jid
+Bube                          - bvb
+Bubi                          - buw
+Budukh                        - bdk
+Buduma                        - bdm
+Buginese                      - bug
+Bugun                         - bgg
+Buhid                         - bku
+Bukiyip                       - ape
+Bukusu                        - bxk
+Bulgarian                     - bg
+Bulgarian                     - bul
+Buli                          - bwu
+Bun                           - buv
+Bunama                        - bdd
+Bundeli                       - bns
+Bungu                         - wun
+Bunoge Dogon                  - dgb
+Bunun                         - bnn
+Bura-Pabir                    - bwr
+Buriat                        - bua
+Burmese                       - my
+Burmese                       - mya
+Burun                         - bdi
+Burushaski                    - bsk
+Buruwai                       - asi
+Busa                          - bqp
+Busami                        - bsm
+Bushi                         - buc
+Butuanon                      - btw
+Bwatoo                        - bwa
+Byangsi                       - bee
+Caac                          - msq
+Cabécar                       - cjp
+Caddo                         - cad
+Cahuilla                      - chl
+Cajun French                  - frc
+Callawalla                    - caw
+Caló                          - rmq
+Campidanese Sardinian         - sro
+Camsá                         - kbh
+Candoshi-Shapra               - cbu
+Cantonese                     - yue
+Capiznon                      - cps
+Cappadocian Greek             - cpg
+Car Nicobarese                - caq
+Cara                          - cfd
+Carapana                      - cbc
+Carian                        - xcr
+Carib                         - car
+Carijona                      - cbd
+Carolinian                    - cal
+Carrier                       - crx
+Cashibo-Cacataibo             - cbr
+Cashinahua                    - cbs
+Catalan                       - ca
+Catalan                       - cat
+Catawba                       - chc
+Cayuga                        - cay
+Cebuano                       - ceb
+Celtiberian                   - xce
+Cemuhî                        - cam
+Central Aymara                - ayr
+Central Bicolano              - bcl
+Central Cagayan Agta          - agt
+Central Dusun                 - dtp
+Central Morocco Tamazight     - tzm
+Central Nicobarese            - ncb
+Central Okinawan              - ryu
+Central Pomo                  - poo
+Central Siberian Yupik        - ess
+Central Sierra Miwok          - csm
+Central Tagbanwa              - tgt
+Central Tarahumara            - tar
+Central Yupik                 - esu
+Chachi                        - cbi
+Chadian Arabic                - shu
+Chagatai                      - chg
+Chamalal                      - cji
+Chamicuro                     - ccc
+Chamorro                      - ch
+Chamorro                      - cha
+Chang Naga                    - nbc
+Chaudangsi                    - cdn
+Chaura                        - crv
+Chavacano                     - cbk
+Chayahuita                    - cbt
+Chechen                       - ce
+Chechen                       - che
+Cherepon                      - cpn
+Cherokee                      - chr
+Cheyenne                      - chy
+Chhattisgarhi                 - hne
+Chibcha                       - chb
+Chickasaw                     - cic
+Chicomuceltec                 - cob
+Chiga                         - cgg
+China Buriat                  - bxu
+Chinese                       - zh
+Chinese                       - zho
+Chinese Pidgin English        - cpi
+Chinook                       - chh
+Chinook Jargon                - chn
+Chipewyan                     - chp
+Chippewa                      - ciw
+Chiquitano                    - cax
+Chiripá                       - nhd
+Chitimacha                    - ctm
+Chittagonian                  - ctg
+Choctaw                       - cho
+Chol                          - ctu
+Chortí                        - caa
+Chrau                         - crw
+Chuave                        - cjv
+Chuj                          - cac
+Chuka                         - cuh
+Chukot                        - ckt
+Chulym                        - clw
+Church Slavic                 - chu
+Church Slavic                 - cu
+Chut                          - scb
+Chuukese                      - chk
+Chuvash                       - chv
+Chuvash                       - cv
+Cia-Cia                       - cia
+Cibak                         - ckl
+Cimbrian                      - cim
+Clallam                       - clm
+Classical Armenian            - xcl
+Classical Mongolian           - cmg
+Classical Nahuatl             - nci
+Classical Syriac              - syc
+Coast Miwok                   - csi
+Coastal Swahili               - swh
+Coatlán Mixe                  - mco
+Colognian                     - ksh
+Colorado                      - cof
+Comanche                      - com
+Comorian                      - swb
+Comox                         - coo
+Coptic                        - cop
+Cornish                       - cor
+Cornish                       - kw
+Corsican                      - co
+Corsican                      - cos
+Cotabato Manobo               - mta
+Cowlitz                       - cow
+Cree                          - cr
+Cree                          - cre
+Creek                         - mus
+Crimean Turkish               - crh
+Croatian                      - hr
+Croatian                      - hrv
+Crow                          - cro
+Cubeo                         - cub
+Cuiba                         - cui
+Culina                        - cul
+Cuneiform Luwian              - xlu
+Curonian                      - xcu
+Cusco Quechua                 - quz
+Czech                         - ces
+Czech                         - cs
+Daba                          - dbq
+Dacian                        - xdc
+Dadibi                        - mps
+Daga                          - dgz
+Dagaari Dioula                - dgd
+Dagbani                       - dag
+Dahalo                        - dal
+Daho-Doo                      - das
+Dakota                        - dak
+Dalmatian                     - dlm
+Damakawa                      - dam
+Dan                           - daf
+Dan                           - dnj
+Danish                        - da
+Danish                        - dan
+Dano                          - aso
+Dargwa                        - dar
+Dari                          - prs
+Darling                       - drl
+Daur                          - dta
+Dawro                         - dwr
+Dazaga                        - dzg
+Dedua                         - ded
+Defaka                        - afn
+Degema                        - deg
+Degexit'an                    - ing
+Dehu                          - dhv
+Delaware                      - del
+Dendi                         - deq
+Denya                         - anv
+Desano                        - des
+Dewoin                        - dee
+Dhatki                        - mki
+Dhuwal                        - duj
+Dido                          - ddo
+Dieri                         - dif
+Dimasa                        - dis
+Dime                          - dim
+Dimli                         - diq
+Dinka                         - din
+Diri                          - dwa
+Disa                          - dsi
+Divehi                        - dv
+Dizin                         - mdx
+Djamindjung                   - djd
+Djinba                        - djb
+Djingili                      - jig
+Dobu                          - dob
+Doe                           - doe
+Dogri                         - dgo
+Dogri                         - doi
+Dogrib                        - dgr
+Dogul Dom Dogon               - dbg
+Dolgan                        - dlg
+Dom                           - doa
+Dompo                         - doy
+Dongxiang                     - sce
+Dorze                         - doz
+Drents                        - drt
+Duala                         - dua
+Duau                          - dva
+Dubli                         - dub
+Duhwa                         - kbz
+Dumi                          - dus
+Dungan                        - dng
+Dungra Bhil                   - duh
+Dupaninan Agta                - duo
+Dusner                        - dsn
+Dutch                         - nl
+Dutch                         - nld
+Duungooma                     - dux
+Dyirbal                       - dbl
+Dyula                         - dyu
+Dzodinka                      - add
+Dzongkha                      - dz
+Dzongkha                      - dzo
+Dzùùngoo                      - dnn
+E'ñapa Woromaipu              - pbh
+East Futuna                   - fud
+East Kewa                     - kjs
+East Yugur                    - yuy
+Eastern Arrernte              - aer
+Eastern Bru                   - bru
+Eastern Canadian Inuktitut    - ike
+Eastern Cham                  - cjm
+Eastern Frisian               - frs
+Eastern Keres                 - kee
+Eastern Magar                 - mgp
+Eastern Mari                  - mhr
+Eastern Maroon Creole         - djk
+Eastern Muria                 - emu
+Eastern Ngad'a                - nea
+Eastern Nisu                  - nos
+Eastern Oromo                 - hae
+Eastern Penan                 - pez
+Eastern Pomo                  - peb
+Eastern Tamang                - taj
+Eastern Yiddish               - ydd
+Ebira                         - igb
+Eblan                         - xeb
+Ebughu                        - ebg
+Edolo                         - etr
+Edomite                       - xdm
+Efai                          - efa
+Efik                          - efi
+Ega                           - ega
+Eggon                         - ego
+Egyptian Arabic               - arz
+Ekari                         - ekg
+Ekit                          - eke
+Ekpeye                        - ekp
+El Nayar Cora                 - crn
+Elamite                       - elx
+Eleme                         - elm
+Eloyi                         - afo
+Emberá-Catío                  - cto
+Emberá-Chamí                  - cmi
+Emberá-Tadó                   - tdc
+Embu                          - ebu
+Emilian                       - egl
+Ende                          - end
+Enga                          - enq
+Engenni                       - enn
+English                       - en
+English                       - eng
+Enwan                         - enw
+Epena                         - sja
+Epie                          - epi
+Eravallan                     - era
+Erzya                         - myv
+Esan                          - ish
+Eshtehardi                    - esh
+Esimbi                        - ags
+Esperanto                     - eo
+Esperanto                     - epo
+Estonian                      - est
+Estonian                      - et
+Eten                          - etx
+Etruscan                      - ett
+Even                          - eve
+Evenki                        - evn
+Ewe                           - ee
+Ewe                           - ewe
+Ewondo                        - ewo
+Extremaduran                  - ext
+Eyak                          - eya
+Fagani                        - faf
+Faiwol                        - fai
+Fala                          - fax
+Faliscan                      - xfa
+Fang                          - fak
+Fang                          - fan
+Fanti                         - fat
+Faroese                       - fao
+Faroese                       - fo
+Fas                           - fqs
+Fataluku                      - ddg
+Fiji Hindi                    - hif
+Fijian                        - fij
+Fijian                        - fj
+Filipino                      - fil
+Finnish                       - fi
+Finnish                       - fin
+Fipa                          - fip
+Firan                         - fir
+Fon                           - fon
+Fore                          - for
+Forest Enets                  - enf
+Frankish                      - frk
+French                        - fr
+French                        - fra
+Friulian                      - fur
+Fulah                         - ff
+Fulah                         - ful
+Futuna-Aniwa                  - fut
+Fwâi                          - fwa
+Fyam                          - pym
+Fyer                          - fie
+Ga                            - gaa
+Ga'anda                       - gqa
+Gadsup                        - gaj
+Gagauz                        - gag
+Gagu                          - ggu
+Galela                        - gbi
+Galeya                        - gar
+Galician                      - gl
+Galician                      - glg
+Gallurese Sardinian           - sdn
+Galoli                        - gal
+Gamilaraay                    - kld
+Gamo                          - gmv
+Gan Chinese                   - gan
+Ganda                         - lg
+Ganda                         - lug
+Ganza                         - gza
+Garifuna                      - cab
+Gavar                         - gou
+Gawwada                       - gwd
+Gayo                          - gay
+Gbari                         - gby
+Geez                          - gez
+Geji                          - gji
+Gela                          - nlg
+Gen                           - gej
+Georgian                      - ka
+Georgian                      - kat
+German                        - de
+German                        - deu
+Ghadamès                      - gha
+Gheg Albanian                 - aln
+Ghodoberi                     - gdo
+Ghotuo                        - aaa
+Gidar                         - gid
+Gilaki                        - glk
+Gilbertese                    - gil
+Gilyak                        - niv
+Goan Konkani                  - gom
+Goemai                        - ank
+Gofa                          - gof
+Gokana                        - gkn
+Gola                          - gol
+Golin                         - gvf
+Gondi                         - gon
+Gooniyandi                    - gni
+Gothic                        - got
+Greek                         - el
+Gresi                         - grs
+Gronings                      - gos
+Guadeloupean Creole French    - gcf
+Guajá                         - gvj
+Guambiano                     - gum
+Guanano                       - gvc
+Guanche                       - gnc
+Guarani                       - gn
+Guarani                       - grn
+Guarequena                    - gae
+Guayabero                     - guo
+Gude                          - gde
+Guerrero Amuzgo               - amu
+Guguyimidjir                  - kky
+Guhu-Samane                   - ghs
+Guianese Creole French        - gcr
+Guibei Zhuang                 - zgb
+Gujarati                      - gu
+Gujarati                      - guj
+Gujari                        - gju
+Gula'alaa                     - gmb
+Gulf Arabic                   - afb
+Gumatj                        - gnn
+Gumuz                         - guk
+Gunwinggu                     - gup
+Gurani                        - hac
+Gurinji                       - gue
+Guro                          - goa
+Guruntum-Mbaaru               - grd
+Gusii                         - guz
+Gweno                         - gwe
+Gwere                         - gwr
+Gwichʼin                      - gwi
+Ha                            - haq
+Hadiyya                       - hdy
+Hadza                         - hts
+Haeke                         - aek
+Hahon                         - hah
+Haida                         - hai
+Haitian                       - hat
+Haitian                       - ht
+Hajong                        - haj
+Haka Chin                     - cnh
+Hakka Chinese                 - hak
+Halang                        - hal
+Halh Mongolian                - khk
+Halia                         - hla
+Hamer-Banna                   - amf
+Han                           - haa
+Hangaza                       - han
+Hano                          - lml
+Hanunoo                       - hnn
+Harari                        - har
+Haryanvi                      - bgc
+Hasha                         - ybj
+Hatam                         - had
+Hausa                         - ha
+Hausa                         - hau
+Haveke                        - hvk
+Hawai'i Creole English        - hwc
+Hawaiian                      - haw
+Haya                          - hay
+Hazaragi                      - haz
+Hebrew                        - he
+Hebrew                        - heb
+Hehe                          - heh
+Herero                        - her
+Herero                        - hz
+Hewa                          - ham
+Hidatsa                       - hid
+Highland Totonac              - tos
+Hiligaynon                    - hil
+Hindi                         - hi
+Hindi                         - hin
+Hinukh                        - gin
+Hiri Motu                     - hmo
+Hiri Motu                     - ho
+Hittite                       - hit
+Hmong                         - hmn
+Hmong Daw                     - mww
+Hmong Njua                    - hnj
+Ho                            - hoc
+Ho-Chunk                      - win
+Hoava                         - hoa
+Holikachuk                    - hoi
+Holma                         - hod
+Hopi                          - hop
+Horom                         - hoe
+Hote                          - hot
+Hozo                          - hoz
+Hu                            - huo
+Huambisa                      - hub
+Huastec                       - hus
+Hunde                         - hke
+Hungarian                     - hu
+Hungarian                     - hun
+Hunsrik                       - hrx
+Hunzib                        - huz
+Hupa                          - hup
+Hupdë                         - jup
+Hurrian                       - xhu
+Hyam                          - jab
+Iaai                          - iai
+Iamalele                      - yml
+Iban                          - iba
+Ibanag                        - ibg
+Ibani                         - iby
+Ibino                         - ibn
+Ibuoro                        - ibr
+Icelandic                     - is
+Icelandic                     - isl
+Ida'an                        - dbj
+Idakho-Isukha-Tiriki          - ida
+Idi                           - idi
+Ido                           - ido
+Ido                           - io
+Idun                          - ldb
+Iduna                         - viv
+Igala                         - igl
+Igbo                          - ibo
+Igbo                          - ig
+Ignaciano                     - ign
+Ik                            - ikx
+Ika                           - ikk
+Ikizu                         - ikz
+Iko                           - iki
+Ila                           - ilb
+Ili Turki                     - ili
+Iloko                         - ilo
+Ilue                          - ilv
+Imonda                        - imn
+Inari Sami                    - smn
+Indonesian                    - id
+Indonesian                    - ind
+Indonesian Bajau              - bdl
+Ineseño                       - inz
+Inga                          - inb
+Ingrian                       - izh
+Ingush                        - inh
+Interglossa                   - igs
+Interlingua                   - ia
+Interlingue                   - ie
+Interlingue                   - ile
+Inuktitut                     - iku
+Inuktitut                     - iu
+Inupiaq                       - ik
+Inupiaq                       - ipk
+Iowa-Oto                      - iow
+Iquito                        - iqu
+Ir                            - irr
+Iranian Persian               - pes
+Iraqw                         - irk
+Irish                         - ga
+Irish                         - gle
+Ishkashimi                    - isk
+Isinai                        - inn
+Isoko                         - iso
+Isthmus Mixe                  - mir
+Isthmus Zapotec               - zai
+Isthmus-Mecayapan Nahuatl     - nhx
+Istriot                       - ist
+Istro Romanian                - ruo
+Italian                       - it
+Italian                       - ita
+Itelmen                       - itl
+Itene                         - ite
+Itonama                       - ito
+Itu Mbon Uzo                  - itm
+Itzá                          - itz
+Iu Mien                       - ium
+Ivatan                        - ivv
+Ixil                          - ixl
+Izere                         - izr
+Izon                          - ijc
+Jahanka                       - jad
+Jakun                         - jak
+Jalapa De Díaz Mazatec        - maj
+Jamaican Creole English       - jam
+Jangkang                      - djo
+Japanese                      - ja
+Japanese                      - jpn
+Jarai                         - jra
+Javanese                      - jav
+Javanese                      - jv
+Jawe                          - jaz
+Jeh                           - jeh
+Jehai                         - jhi
+Jewish Babylonian Aramaic     - tmr
+Jewish Palestinian Aramaic    - jpa
+Jibu                          - jib
+Jicarilla Apache              - apj
+Jinyu Chinese                 - cjy
+Jita                          - jit
+Jola-Fonyi                    - dyo
+Jowulu                        - jow
+Ju/'hoan                      - ktz
+Judeo-Tat                     - jdt
+Jur Modo                      - bex
+Jurchen                       - juc
+Jutish                        - jut
+K'iche'                       - quc
+Kabardian                     - kbd
+Kabiyè                        - kbp
+Kabuverdianu                  - kea
+Kabyle                        - kab
+Kachin                        - kac
+Kadara                        - kad
+Kadiwéu                       - kbc
+Kagayanen                     - cgc
+Kahe                          - hka
+Kaingang                      - kgp
+Kakabe                        - kke
+Kala Lagaw Ya                 - mwp
+Kalaallisut                   - kal
+Kalaallisut                   - kl
+Kalabari                      - ijn
+Kalagan                       - kqe
+Kalami                        - gwc
+Kalanga                       - kck
+Kalasha                       - kls
+Kalenjin                      - kln
+Kalispel-Pend d'Oreille       - fla
+Kalkutung                     - ktg
+Kalmyk                        - xal
+Kalo Finnish Romani           - rmf
+Kamano                        - kbq
+Kamas                         - xas
+Kamasau                       - kms
+Kamba                         - kam
+Kamba                         - xba
+Kambera                       - xbr
+Kamu                          - xmu
+Kamula                        - xla
+Kamviri                       - xvi
+Kanakanabu                    - xnb
+Kandawo                       - gam
+Kanga                         - kcp
+Kanikkaran                    - kev
+Kaningdon-Nindem              - kdp
+Kannada                       - kan
+Kannada                       - kn
+Kansa                         - ksk
+Kanufi                        - kni
+Kanuri                        - kau
+Kanuri                        - kr
+Kapingamarangi                - kpg
+Kaqchikel                     - cak
+Kara                          - leu
+Kara                          - reg
+Kara-Kalpak                   - kaa
+Karachay-Balkar               - krc
+Karagas                       - kim
+Karaim                        - kdr
+Karajá                        - kpj
+Karamojong                    - kdj
+Karata                        - kpt
+Karbi                         - mjw
+Karekare                      - kai
+Karelian                      - krl
+Karitiâna                     - ktn
+Kariyarra                     - vka
+Karo                          - kxh
+Karok                         - kyh
+Kasem                         - xsm
+Kashaya                       - kju
+Kashmiri                      - kas
+Kashmiri                      - ks
+Kashubian                     - csb
+Kaska                         - kkz
+Katcha-Kadugli-Miri           - xtc
+Katso                         - kaf
+Kaurna                        - zku
+Kavalan                       - ckv
+Kawaiisu                      - xaw
+Kawi                          - kaw
+Kayapa Kallahan               - kak
+Kaytetye                      - gbb
+Kazakh                        - kaz
+Kazakh                        - kk
+Keiga                         - kec
+Kekchí                        - kek
+Kemtuik                       - kmt
+Kendem                        - kvm
+Kenuzi-Dongola                - kzh
+Kenyang                       - ken
+Kerek                         - krk
+Kerewe                        - ked
+Ket                           - ket
+Khakas                        - kjh
+Khana                         - ogo
+Khanty                        - kca
+Khasi                         - kha
+Khazar                        - zkz
+Khehek                        - tlx
+Khinalugh                     - kjj
+Khmer                         - km
+Khmu                          - kjg
+Khorasani Turkish             - kmz
+Khotanese                     - kho
+Khowar                        - khw
+Khvarshi                      - khv
+Kickapoo                      - kic
+Kikuyu                        - ki
+Kikuyu                        - kik
+Kildin Sami                   - sjd
+Kimbu                         - kiv
+Kimbundu                      - kmb
+Kinaray-A                     - krj
+Kinga                         - zga
+Kinnauri                      - kfk
+Kinyarwanda                   - kin
+Kinyarwanda                   - rw
+Kiowa                         - kio
+Kiowa Apache                  - apk
+Kiput                         - kyi
+Kir-Balar                     - kkr
+Kirghiz                       - kir
+Kirghiz                       - ky
+Kirike                        - okr
+Kis                           - kis
+Kisi                          - kiz
+Kituba                        - ktu
+Klamath-Modoc                 - kla
+Klingon                       - tlh
+Koalib                        - kib
+Koasati                       - cku
+Kok Borok                     - trp
+Kokota                        - kkk
+Komi                          - kom
+Komi                          - kv
+Komi-Permyak                  - koi
+Komi-Zyrian                   - kpv
+Konda-Dora                    - kfc
+Kongo                         - kg
+Kongo                         - kon
+Konkani                       - knn
+Konkani                       - kok
+Konni                         - kma
+Kono                          - kno
+Konso                         - kxc
+Korean                        - ko
+Korean                        - kor
+Koreguaje                     - coe
+Korku                         - kfq
+Koromfé                       - kfz
+Koryak                        - kpy
+Koshin                        - kid
+Kosraean                      - kos
+Kotava                        - avk
+Kott                          - zko
+Kove                          - kvc
+Koyraboro Senni               - ses
+Koyukon                       - koy
+Kpasam                        - pbn
+Kpelle                        - kpe
+Krio                          - kri
+Kriol                         - rop
+Krisa                         - ksi
+Krobu                         - kxb
+Kryts                         - kry
+Kuanua                        - ksd
+Kuanyama                      - kj
+Kuanyama                      - kua
+Kui                           - kxu
+Kulere                        - kul
+Kulon-Pazeh                   - uun
+Kuman                         - kue
+Kuman                         - qwm
+Kumyk                         - kum
+Kunama                        - kun
+Kung-Ekoka                    - knw
+Kuni                          - kse
+Kunigami                      - xug
+Kunjen                        - kjn
+Kunza                         - kuz
+Kuot                          - kto
+Kupa                          - kug
+Kuranko                       - knk
+Kurdish                       - ku
+Kurdish                       - kur
+Kuria                         - kuj
+Kurudu                        - kjr
+Kurukh                        - kru
+Kushi                         - kuh
+Kusunda                       - kgg
+Kutenai                       - kut
+Kutep                         - kub
+Kutu                          - kdc
+Kuturmi                       - khj
+Kuvi                          - kxv
+Kuy                           - kdt
+Kven Finnish                  - fkv
+Kwakiutl                      - kwk
+Kwamera                       - tnk
+Kwang                         - kvi
+Kwangali                      - kwn
+Kwara'ae                      - kwf
+Kwaya                         - kya
+Kwere                         - cwe
+Kwoma                         - kmo
+Kyenga                        - tye
+Kâte                          - kmg
+Kélé                          - keb
+Laal                          - gdm
+Lacandon                      - lac
+Ladakhi                       - lbj
+Ladin                         - lld
+Ladino                        - lad
+Lagwan                        - kot
+Lak                           - lbe
+Lake Miwok                    - lmw
+Laki                          - lki
+Lakota                        - lkt
+Lala                          - nrz
+Lamang                        - hia
+Lamba                         - lam
+Lambya                        - lai
+Lamma                         - lev
+Lampung Api                   - ljp
+Langi                         - lag
+Lango                         - laj
+Lao                           - lao
+Lao                           - lo
+Laru                          - lan
+Late Middle Chinese           - ltc
+Latgalian                     - ltg
+Latin                         - la
+Latin                         - lat
+Latvian                       - lav
+Latvian                       - lv
+Lau                           - llu
+Lauje                         - law
+Laurentian                    - lre
+Lavukaleve                    - lvk
+Laz                           - lzz
+Lealao Chinantec              - cle
+Ledo Kaili                    - lew
+Lele                          - llc
+Lendu                         - led
+Lengo                         - lgr
+Lengola                       - lej
+Lenje                         - leh
+Lese                          - les
+Lezghian                      - lez
+Li'o                          - ljl
+Libyan Arabic                 - ayl
+Ligbi                         - lig
+Ligurian                      - lij
+Ligurian ancient              - xlg
+Lijili                        - mgi
+Likum                         - lib
+Lillooet                      - lil
+Limbu                         - lif
+Limburgish                    - li
+Lingala                       - lin
+Lingala                       - ln
+Lingua Franca Nova            - lfn
+Lipan Apache                  - apl
+Lisu                          - lis
+Literary Chinese              - lzh
+Lithuanian                    - lit
+Lithuanian                    - lt
+Liv                           - liv
+Lobi                          - lob
+Logooli                       - rag
+Logudorese Sardinian          - src
+Lojban                        - jbo
+Loko                          - lok
+Lombard                       - lmo
+Loniu                         - los
+Lopa                          - lop
+Lou                           - loj
+Louisiana Creole French       - lou
+Low German                    - nds
+Lower Sorbian                 - dsb
+Lower Tanana                  - taa
+Lozi                          - loz
+Luba-Katanga                  - lu
+Luba-Katanga                  - lub
+Luba-Lulua                    - lua
+Lubuagan Kalinga              - knb
+Luguru                        - ruf
+Luiseno                       - lui
+Lule Sami                     - smj
+Lunanakha                     - luk
+Lunda                         - lun
+Luo                           - luo
+Luo                           - luw
+Lusengo                       - lse
+Lushai                        - lus
+Lushootseed                   - lut
+Lusitanian                    - xls
+Luxembourgish                 - lb
+Luxembourgish                 - ltz
+Luyia                         - luy
+Lycian                        - xlc
+Lydian                        - xld
+Lü                            - khb
+Maay                          - ymm
+Maba                          - mde
+Mabaan                        - mfz
+Macaguán                      - mbn
+Macanese                      - mzs
+Macedonian                    - mk
+Macedonian                    - mkd
+Machame                       - jmc
+Machiguenga                   - mcb
+Macuna                        - myy
+Macushi                       - mbc
+Mada                          - mda
+Madurese                      - mad
+Maguindanaon                  - mdh
+Mahican                       - mjy
+Maia                          - sks
+Mainfränkisch                 - vmf
+Maithili                      - mai
+Majang                        - mpe
+Makah                         - myh
+Makasae                       - mkz
+Makasar                       - mak
+Makhuwa                       - vmw
+Makonde                       - kde
+Mala Malasar                  - ima
+Malagasy                      - mg
+Malagasy                      - mlg
+Malay                         - ms
+Malay                         - zlm
+Malayalam                     - mal
+Malayalam                     - ml
+Malecite-Passamaquoddy        - pqm
+Malila                        - mgq
+Malinaltepec Me'phaa          - tcf
+Maltese                       - mlt
+Maltese                       - mt
+Maléku Jaíka                  - gut
+Mam                           - mam
+Mamanwa                       - mmn
+Mambae                        - mgm
+Mambwe-Lungu                  - mgr
+Manado Malay                  - xmm
+Manam                         - mva
+Manambu                       - mle
+Manchu                        - mnc
+Manda                         - mgs
+Manda                         - mha
+Manda                         - zma
+Mandaic                       - mid
+Mandar                        - mdr
+Mandara                       - tbf
+Mandarin                      - cmn
+Mandingo                      - man
+Mandinka                      - mnk
+Mandobo Atas                  - aax
+Mangareva                     - mrv
+Mangas                        - zns
+Manggarai                     - mqy
+Manikion                      - mnx
+Manipuri                      - mni
+Mann                          - mev
+Mansi                         - mns
+Mansoanka                     - msw
+Manta                         - myg
+Manx                          - glv
+Manx                          - gv
+Maori                         - mi
+Maori                         - mri
+Mapos Buang                   - bzh
+Mara                          - mec
+Mara Chin                     - mrh
+Maranao                       - mrw
+Maranunggu                    - zmr
+Marathi                       - mar
+Marathi                       - mr
+Marau                         - mvr
+Marghi Central                - mrt
+Mari                          - chm
+Mari                          - hob
+Mari                          - mbx
+Maricopa                      - mrc
+Marithiel                     - mfr
+Marka                         - rkm
+Marshallese                   - mah
+Marshallese                   - mh
+Marsian                       - ims
+Marti Ke                      - zmg
+Martuyhunira                  - vma
+Marwari                       - mwr
+Marwari                       - mwr
+Marwari                       - rwr
+Masaaba                       - myx
+Masadiit Itneg                - tis
+Masai                         - mas
+Mashi                         - jms
+Matengo                       - mgv
+Mato                          - met
+Matumbi                       - mgw
+Maung                         - mph
+Mayangna                      - yan
+Maykulan                      - mnt
+Mayo                          - mfy
+Mazanderani                   - mzn
+Mbabaram                      - vmb
+Mbu'                          - muc
+Mbula                         - mna
+Mbunga                        - mgy
+Mbyá Guaraní                  - gun
+Megleno Romanian              - ruq
+Mekeo                         - mek
+Melo                          - mfx
+Melpa                         - med
+Mende                         - men
+Mende                         - sim
+Mengen                        - mee
+Menominee                     - mez
+Meriam                        - ulk
+Meru                          - mer
+Mescalero-Chiricahua Apache   - apm
+Mesmes                        - mys
+Mesopotamian Arabic           - acm
+Meyah                         - mej
+Miami                         - mia
+Mian                          - mpt
+Michif                        - crg
+Micmac                        - mic
+Middle Breton                 - xbm
+Middle Dutch                  - dum
+Middle English                - enm
+Middle French                 - frm
+Middle High German            - gmh
+Middle Irish                  - mga
+Middle Korean                 - okm
+Middle Low German             - gml
+Middle Welsh                  - wlm
+Midob                         - mei
+Min Dong Chinese              - cdo
+Min Nan Chinese               - nan
+Mina                          - hna
+Minangkabau                   - min
+Mingrelian                    - xmf
+Minica Huitoto                - hto
+Minoan                        - omn
+Mirandese                     - mwl
+Misima-Paneati                - mpx
+Mitla Zapotec                 - zaw
+Miya                          - mkf
+Miyako                        - mvi
+Moabite                       - obm
+Mobilian                      - mod
+Mochi                         - old
+Mochica                       - omc
+Mocho                         - mhc
+Modern Romanic                - mis_mro
+Mofu-Gudur                    - mif
+Mogholi                       - mhj
+Mohave                        - mov
+Mohawk                        - moh
+Moksha                        - mdf
+Moloko                        - mlw
+Mom Jango                     - ver
+Mon                           - mnw
+Mongo                         - lol
+Mongolian                     - mn
+Mongolian                     - mon
+Montagnais                    - moe
+Monumbo                       - mxk
+Monzombo                      - moj
+Moose Cree                    - crm
+Mopán Maya                    - mop
+Morawa                        - mze
+Morisyen                      - mfe
+Moro                          - mor
+Moroccan Arabic               - ary
+Mossi                         - mos
+Mota                          - mtt
+Motu                          - meu
+Movima                        - mzp
+Mozarabic                     - mxi
+Mpoto                         - mpa
+Mudbura                       - mwd
+Muduapa                       - wiv
+Multiple Languages            - mul
+Muna                          - mnb
+Mundabli                      - boe
+Mundari                       - unr
+Mundat                        - mmf
+Mundurukú                     - myu
+Mungaka                       - mhk
+Munggui                       - mth
+Muniche                       - myr
+Munji                         - mnj
+Munsee                        - umu
+Muong                         - mtq
+Murrinh-Patha                 - mwf
+Murui Huitoto                 - huu
+Muslim Tat                    - ttt
+Muyang                        - muy
+Muyuw                         - myw
+Mwaghavul                     - sur
+Mwan                          - moa
+Mwera                         - mwe
+Mycenaean Greek               - gmy
+Myene                         - mye
+Mískito                       - miq
+Mócheno                       - mhn
+N/u                           - ngh
+Nafaanra                      - nfr
+Nafusi                        - jbn
+Nage                          - nxe
+Nahali                        - nlx
+Nahuatl                       - nah
+Najdi Arabic                  - ars
+Naka'ela                      - nae
+Nakanai                       - nak
+Nalik                         - nal
+Nama                          - naq
+Namakura                      - nmk
+Namia                         - nnm
+Namla                         - naa
+Nanai                         - gld
+Nande                         - nnb
+Nangikurrunggurr              - nam
+Nanticoke                     - nnt
+Narom                         - nrm
+Narrinyeri                    - nay
+Naskapi                       - nsk
+Nataoran Amis                 - ais
+Natchez                       - ncz
+Nauru                         - na
+Nauru                         - nau
+Navajo                        - nav
+Navajo                        - nv
+Nawuri                        - naw
+Ndali                         - ndh
+Ndamba                        - ndj
+Ndemli                        - nml
+Ndengereko                    - ndg
+Ndogo                         - ndz
+Ndonga                        - ndo
+Ndonga                        - ng
+Neapolitan                    - nap
+Negerhollands                 - dcr
+Negidal                       - neg
+Nehan                         - nsn
+Nemi                          - nem
+Nenets                        - yrk
+Nengone                       - nen
+Nepali                        - ne
+Nete                          - net
+Newari                        - new
+Neyo                          - ney
+Nez Perce                     - nez
+Ngaanyatjarra                 - ntj
+Ngad'a                        - nxg
+Ngaju                         - nij
+Ngambay                       - sba
+Nganasan                      - nio
+Nganyaywana                   - nyx
+Ngarinyin                     - ung
+Ngas                          - anc
+Ngawun                        - nxn
+Ngazidja Comorian             - zdj
+Ngie                          - ngj
+Ngiemboon                     - nnh
+Ngindo                        - nnq
+Ngiti                         - niy
+Ngizim                        - ngi
+Ngombe                        - ngc
+Ngoni                         - ngo
+Ngulu                         - ngp
+Ngundu                        - nue
+Ngurimi                       - ngq
+Nhanda                        - nha
+Nhengatu                      - yrl
+Nias                          - nia
+Niellim                       - nie
+Nigerian Pidgin               - pcm
+Nihali                        - nll
+Nilamba                       - nim
+Nimboran                      - nir
+Nimi                          - nis
+Ningye                        - nns
+Ninzo                         - nin
+Nisenan                       - nsz
+Niuafo'ou                     - num
+Niuean                        - niu
+Nkoroo                        - nkx
+Nobiin                        - fia
+Nobonob                       - gaw
+Nogai                         - nog
+Nomatsiguenga                 - not
+Nomu                          - noh
+Norn                          - nrn
+North Alaskan Inupiatun       - esi
+North Azerbaijani             - azj
+North Levantine Arabic        - apc
+North Marquesan               - mrq
+North Ndebele                 - nd
+North Ndebele                 - nde
+Northeastern Thai             - tts
+Northern Amami-Oshima         - ryn
+Northern Dagara               - dgi
+Northern Emberá               - emp
+Northern Frisian              - frr
+Northern Kissi                - kqs
+Northern Kurdish              - kmr
+Northern Ohlone               - cst
+Northern Paiute               - pao
+Northern Pomo                 - pej
+Northern Qiandong Miao        - hea
+Northern Qiang                - cng
+Northern Sami                 - se
+Northern Sami                 - sme
+Northern Sotho                - nso
+Northern Thai                 - nod
+Northern Tiwa                 - twf
+Northern Tujia                - tji
+Northern Tutchone             - ttm
+Northern Uzbek                - uzn
+Northern Yukaghir             - ykg
+Norwegian                     - nb
+Norwegian                     - nor
+Norwegian Nynorsk             - nn
+Norwegian Nynorsk             - nno
+Nottoway-Meherrin             - nwy
+Novial                        - nov
+Nubi                          - kcn
+Nuer                          - nus
+Nugunu                        - nnv
+Nukuoro                       - nkr
+Numana-Nunku-Gbantu-Numbu     - nbr
+Numee                         - kdk
+Nungu                         - rin
+Nupe-Nupe-Tako                - nup
+Nusa Laut                     - nul
+Nyakyusa-Ngonde               - nyy
+Nyambo                        - now
+Nyamwanga                     - mwn
+Nyamwezi                      - nym
+Nyanja                        - ny
+Nyanja                        - nya
+Nyankole                      - nyn
+Nyarafolo Senoufo             - sev
+Nyasa Tonga                   - tog
+Nyaturu                       - rim
+Nyawaygi                      - nyt
+Nyenkha                       - neh
+Nyiha                         - nih
+Nyoro                         - nyo
+Nyunga                        - nys
+Nyâlayu                       - yly
+Nzanyi                        - nja
+Nzima                         - nzi
+Ná-Meo                        - neo
+Nêlêmwa-Nixumwak              - nee
+Obispeño                      - obi
+Obolo                         - ann
+Ocaina                        - oca
+Occitan                       - oc
+Ogbah                         - ogc
+Ogea                          - eri
+Ojibwa                        - oj
+Ojibwa                        - oji
+Okodia                        - okd
+Oksapmin                      - opm
+Old Chinese                   - och
+Old Dutch                     - odt
+Old English                   - ang
+Old French                    - fro
+Old Frisian                   - ofs
+Old Georgian                  - oge
+Old High German               - goh
+Old Hungarian                 - ohu
+Old Irish                     - sga
+Old Japanese                  - ojp
+Old Korean                    - oko
+Old Norse                     - non
+Old Nubian                    - onw
+Old Persian                   - peo
+Old Provençal                 - pro
+Old Russian                   - orv
+Old Saxon                     - osx
+Old Spanish                   - osp
+Old Turkish                   - otk
+Old Welsh                     - owl
+Omaha-Ponca                   - oma
+Ona                           - ona
+Oneida                        - one
+Onondaga                      - ono
+Ontong Java                   - ojv
+Orejón                        - ore
+Oriya                         - or
+Oro                           - orx
+Oroch                         - oac
+Orok                          - oaa
+Oromo                         - om
+Oromo                         - orm
+Oroqen                        - orh
+Oruma                         - orr
+Osage                         - osa
+Oscan                         - osc
+Ossetic                       - os
+Ottawa                        - otw
+Ottoman Turkish               - ota
+Otuho                         - lot
+Oyda                          - oyd
+Paama                         - pma
+Pacific Gulf Yupik            - ems
+Pacoh                         - pac
+Pahlavi                       - pal
+Paicî                         - pri
+Paiwan                        - pwn
+Pakanha                       - pkn
+Pakaásnovos                   - pav
+Palauan                       - pau
+Pali                          - pi
+Pali                          - pli
+Palu'e                        - ple
+Pampanga                      - pam
+Panamint                      - par
+Pangasinan                    - pag
+Pangwa                        - pbr
+Panoan Katukína               - knt
+Panytyima                     - pnw
+Papantla Totonac              - top
+Papiamento                    - pap
+Papuma                        - ppm
+Paraguayan Guaraní            - gug
+Parauk                        - prk
+Parkwa                        - pbi
+Parsi-Dari                    - prd
+Parthian                      - xpr
+Pashto                        - ps
+Pattani                       - lae
+Paumarí                       - pad
+Pawnee                        - paw
+Pe                            - pai
+Pennsylvania German           - pdc
+Penrhyn                       - pnh
+Persian                       - fa
+Persian                       - fas
+Pfaelzisch                    - pfl
+Phalura                       - phl
+Phoenician                    - phn
+Phrygian                      - xpg
+Phuie                         - pug
+Piapoco                       - pio
+Piaroa                        - pid
+Picard                        - pcd
+Piemontese                    - pms
+Pije                          - piz
+Pijin                         - pis
+Pimbwe                        - piw
+Pinyin                        - pny
+Pipil                         - ppl
+Pirahã                        - myp
+Piratapuyo                    - pir
+Pitcairn-Norfolk              - pih
+Pitjantjatjara                - pjt
+Plains Cree                   - crk
+Plains Miwok                  - pmw
+Plautdietsch                  - pdt
+Pochutec                      - xpo
+Pogolo                        - poy
+Pohnpeian                     - pon
+Polabian                      - pox
+Polari                        - pld
+Polish                        - pl
+Polish                        - pol
+Pom                           - pmo
+Pontic                        - pnt
+Popti'                        - jac
+Poqomam                       - poc
+Poqomchi'                     - poh
+Portuguese                    - por
+Portuguese                    - pt
+Potawatomi                    - pot
+Potiguára                     - pog
+Powhatan                      - pim
+Primitive Irish               - pgl
+Prussian                      - prg
+Pulaar                        - fuc
+Pumpokol                      - xpm
+Punic                         - xpu
+Punjabi                       - pa
+Punu                          - puu
+Purepecha                     - tsz
+Puyuma                        - pyu
+Páez                          - pbb
+Pévé                          - lme
+Q'anjob'al                    - kjb
+Qawasqar                      - alc
+Qimant                        - ahg
+Quapaw                        - qua
+Quechua                       - qu
+Quechua                       - que
+Quenya                        - qya
+Quileute                      - qui
+Rade                          - rad
+Rajasthani                    - raj
+Rao                           - rao
+Rapanui                       - rap
+Rarotongan                    - rar
+Ratahan                       - rth
+Rejang                        - rej
+Rendille                      - rel
+Rennell-Bellona               - mnv
+Resígaro                      - rgr
+Riang                         - ril
+Riantana                      - ran
+Rogo                          - rod
+Rohingya                      - rhg
+Romagnol                      - rgn
+Romanian                      - ro
+Romanian                      - ron
+Romanova                      - rmv
+Romansh                       - rm
+Romansh                       - roh
+Romany                        - rom
+Rombo                         - rof
+Ron                           - cla
+Rotokas                       - roo
+Rotuman                       - rtm
+Roviana                       - rug
+Rufiji                        - rui
+Rukai                         - dru
+Ruma                          - ruz
+Rumu                          - klq
+Rundi                         - rn
+Rundi                         - run
+Rungwa                        - rnw
+Russia Buriat                 - bxr
+Russian                       - ru
+Russian                       - rus
+Rusyn                         - rue
+Rutul                         - rut
+Rwa                           - rwk
+Réunion Creole French         - rcf
+S'gaw Karen                   - ksw
+Sa                            - sax
+Saamia                        - lsm
+Saaroa                        - sxr
+Sacapulteco                   - quv
+Safwa                         - sbk
+Saint Lucian Creole French    - acf
+Saisiyat                      - xsy
+Sakha                         - sah
+Salar                         - slr
+Saleman                       - sau
+Salinan                       - sln
+Sallands                      - sdz
+Salt-Yui                      - sll
+Samaritan Aramaic             - sam
+Sambe                         - xab
+Samoan                        - sm
+Samoan                        - smo
+Samogitian                    - sgs
+Sampang                       - rav
+Samtao                        - stu
+San Blas Kuna                 - cuk
+San Francisco Matlatzinca     - mat
+San Jerónimo Tecóatl Mazatec  - maa
+San Mateo Del Mar Huave       - huv
+San Pedro Amuzgos Amuzgo      - azg
+Sanapaná                      - sap
+Sanapaná                      - spn
+Sandawe                       - sad
+Sangir                        - sxn
+Sango                         - sag
+Sango                         - sg
+Sangu                         - sbp
+Sansi                         - ssi
+Sanskrit                      - sa
+Sanskrit                      - san
+Santa María Quiegolani Zapotec- zpi
+Santali                       - sat
+Saramaccan                    - srm
+Sardinian                     - sc
+Sardinian                     - srd
+Sarikoli                      - srh
+Sarsi                         - srs
+Sasak                         - sas
+Sassarese Sardinian           - sdc
+Satawalese                    - stw
+Saterfriesisch                - stq
+Sauria Paharia                - mjt
+Sawi                          - saw
+Sawknah                       - swn
+Sayula Popoluca               - pos
+Scots                         - sco
+Scottish Gaelic               - gd
+Scottish Gaelic               - gla
+Sea Island Creole English     - gul
+Sebat Bet Gurage              - sgw
+Sebop                         - sib
+Secoya                        - sey
+Sedang                        - sed
+Seeku                         - sos
+Seimat                        - ssg
+Sekani                        - sek
+Seke                          - ske
+Seko Tengah                   - sko
+Selepet                       - spl
+Selkup                        - sel
+Semai                         - sea
+Semelai                       - sza
+Senaya                        - syn
+Seneca                        - see
+Sened                         - sds
+Sentani                       - set
+Sepa                          - spe
+Serbian                       - sr
+Serbian                       - srp
+Serbo Croatian                - sh
+Serer                         - srr
+Seri                          - sei
+Serui-Laut                    - seu
+Seselwa Creole French         - crs
+Seze                          - sze
+Sha                           - scw
+Shabo                         - sbf
+Shall-Zwall                   - sha
+Shambala                      - ksb
+Shan                          - shn
+Shanga                        - sho
+Sharanahua                    - mcd
+Shawnee                       - sjw
+Sheko                         - she
+Shelta                        - sth
+Sherpa                        - xsr
+Shipibo-Conibo                - shp
+Shona                         - sn
+Shona                         - sna
+Shor                          - cjs
+Shoshoni                      - shh
+Shuar                         - jiv
+Shubi                         - suj
+Shughni                       - sgh
+Shuswap                       - shs
+Sichuan Yi                    - ii
+Sichuan Yi                    - iii
+Sicilian                      - scn
+Sidamo                        - sid
+Sie                           - erg
+Sikkimese                     - sip
+Siksika                       - bla
+Silesian                      - szl
+Silt'e                        - stv
+Simbali                       - smg
+Sinaugoro                     - snc
+Sindarin                      - sjn
+Sindhi                        - sd
+Sindhi                        - snd
+Sinhala                       - si
+Sinhala                       - sin
+Sio                           - xsi
+Siona                         - snn
+Sipacapense                   - qum
+Siri                          - sir
+Siriano                       - sri
+Sirionó                       - srq
+Siroi                         - ssd
+Sivandi                       - siy
+Siwi                          - siz
+Skolt Sami                    - sms
+Slave                         - den
+Slovak                        - sk
+Slovak                        - slk
+Slovenian                     - sl
+Slovenian                     - slv
+Snohomish                     - sno
+Sobei                         - sob
+Soga                          - xog
+Sogdien                       - sog
+Somali                        - so
+Somali                        - som
+Somba-Siawari                 - bmu
+Somrai                        - sor
+Soninke                       - snk
+Sonsorol                      - sov
+Soo                           - teu
+Soqotri                       - sqt
+Sora                          - srb
+Sorani Kurdish                - ckb
+South Azerbaijani             - azb
+South Efate                   - erk
+South Giziga                  - giz
+South Levantine Arabic        - ajp
+South Ndebele                 - nbl
+South Ndebele                 - nr
+South Picene                  - spx
+South Slavey                  - xsl
+Southeast Ambrym              - tvk
+Southeast Ijo                 - ijs
+Southeast Pashayi             - psi
+Southeastern Tepehuan         - stp
+Southern Altai                - alt
+Southern Amami-Oshima         - ams
+Southern Balochi              - bcc
+Southern Bobo Madaré          - bwq
+Southern Dong                 - kmc
+Southern Hindko               - hnd
+Southern Nambikuára           - nab
+Southern Ohlone               - css
+Southern Puebla Mixtec        - mit
+Southern Qiandong Miao        - hms
+Southern Sama                 - ssb
+Southern Sami                 - sma
+Southern Sierra Miwok         - skd
+Southern Sotho                - sot
+Southern Sotho                - st
+Southern Yukaghir             - yux
+Sowa                          - sww
+Spanish                       - es
+Spanish                       - spa
+Squamish                      - squ
+Sranan Tongo                  - srn
+Standard Arabic               - arb
+Standard Latvian              - lvs
+Stoney                        - sto
+Straits Salish                - str
+Suba                          - sxb
+Sudanese Arabic               - apd
+Sudest                        - tgo
+Sudovian                      - xsv
+Suena                         - sue
+Suki                          - sui
+Sukuma                        - suk
+Sukur                         - syk
+Sumbwa                        - suw
+Sumerian                      - sux
+Sumi Naga                     - nsm
+Sundanese                     - su
+Sundanese                     - sun
+Sur                           - tdl
+Surigaonon                    - sgd
+Sursurunga                    - sgz
+Susu                          - sus
+Svan                          - sva
+Swabian                       - swg
+Swahili                       - sw
+Swati                         - ss
+Swati                         - ssw
+Swedish                       - sv
+Swedish                       - swe
+Swiss German                  - gsw
+Sylheti                       - syl
+Syriac                        - syr
+Sáliba                        - slc
+Sãotomense                    - cri
+Sô                            - sss
+Tabasco Chontal               - chf
+Tabassaran                    - tab
+Tacana                        - tna
+Tachelhit                     - shi
+Tadaksahak                    - dsq
+Tagalog                       - tgl
+Tagalog                       - tl
+Tagish                        - tgx
+Tahitian                      - tah
+Tahitian                      - ty
+Tai Dam                       - blt
+Tai Nüa                       - tdd
+Taino                         - tnq
+Taita                         - dav
+Tajik                         - tg
+Tajik                         - tgk
+Takia                         - tbc
+Takuu                         - nho
+Tala                          - tak
+Talysh                        - tly
+Tamanaku                      - tmz
+Tamashek                      - tmh
+Tamasheq                      - taq
+Tambas                        - tdk
+Tamil                         - ta
+Tamil                         - tam
+Tanaina                       - tfn
+Tangoa                        - tgp
+Tanimuca-Retuarã              - tnc
+Tanjijili                     - uji
+Tariana                       - tae
+Tarifit                       - rif
+Tarok                         - yer
+Taroko                        - trv
+Tase Naga                     - nst
+Tasmanian                     - xtz
+Tatar                         - tat
+Tatar                         - tt
+Tatuyo                        - tav
+Taushiro                      - trr
+Tausug                        - tsg
+Tauya                         - tya
+Tawala                        - tbo
+Tay Boi                       - tas
+Tebul Ure Dogon               - dtu
+Tedaga                        - tuq
+Tee                           - tkq
+Tehuelche                     - teh
+Tektiteko                     - ttc
+Telugu                        - te
+Telugu                        - tel
+Temein                        - teq
+Temi                          - soz
+Temiar                        - tea
+Ter Sami                      - sjt
+Tereno                        - ter
+Teressa                       - tef
+Ternate                       - tft
+Tese                          - keg
+Tetum                         - tet
+Tetun Dili                    - tdt
+Tewa                          - twe
+Thai                          - th
+Thai                          - tha
+Thao                          - ssf
+Tharaka                       - thk
+Thompson                      - thp
+Thracian                      - txh
+Thu Lao                       - tyl
+Tibetan                       - bo
+Tibetan                       - bod
+Tigre                         - tig
+Tigrinya                      - ti
+Tigrinya                      - tir
+Tikopia                       - tkp
+Tillamook                     - til
+Timucua                       - tjm
+Tindi                         - tin
+Tinà Sambal                   - xsb
+Tiv                           - tiv
+Tiwi                          - tiw
+Tlingit                       - tli
+Tobian                        - tox
+Toda                          - tcx
+Tohono O'odham                - ood
+Tojolabal                     - toj
+Tok Pisin                     - tpi
+Tokelau                       - tkl
+Tokharian A                   - xto
+Tokharian B                   - txb
+Tolomako                      - tlm
+Tonga                         - tnz
+Tonga                         - toi
+Tongan                        - to
+Tonkawa                       - tqw
+Tooro                         - ttj
+Toraja-Sa'dan                 - sda
+Tornedalen Finnish            - fit
+Toro                          - tdv
+Torres Strait Creole          - tcs
+Torwali                       - trw
+Tosk Albanian                 - als
+Totoro                        - ttk
+Toura                         - don
+Toura                         - neb
+Transalpine Gaulish           - xtg
+Trimuris                      - tip
+Trinitario                    - trn
+Trió                          - tri
+Tsakhur                       - tkr
+Tsamai                        - tsb
+Tsimihety Malagasy            - xmw
+Tsimshian                     - tsi
+Tsonga                        - ts
+Tsonga                        - tso
+Tsou                          - tsu
+Tsuvadi                       - tvd
+Tswana                        - tn
+Tswana                        - tsn
+Tswapong                      - two
+Tu                            - mjg
+Tuamotuan                     - pmt
+Tucano                        - tuo
+Tukudede                      - tkd
+Tulu                          - tcy
+Tulu-Bohuai                   - rak
+Tumbuka                       - tum
+Tumtum                        - tbr
+Tunica                        - tun
+Tunisian Arabic               - aeb
+Tunjung                       - tjg
+Tupinambá                     - tpn
+Tupí                          - tpw
+Turkana                       - tuv
+Turkic Khalaj                 - klj
+Turkish                       - tr
+Turkish                       - tur
+Turkmen                       - tk
+Turkmen                       - tuk
+Tuscarora                     - tus
+Tutelo                        - tta
+Tuvalu                        - tvl
+Tuvinian                      - tyv
+Tuyuca                        - tue
+Twents                        - twd
+Twi                           - tw
+Twi                           - twi
+Tz'utujil                     - tzj
+Tzeltal                       - tzh
+Tzotzil                       - tzo
+Tày Sa Pa                     - tys
+U                             - uuu
+Uab Meto                      - aoz
+Ubykh                         - uby
+Uda                           - uda
+Udi                           - udi
+Udihe                         - ude
+Udmurt                        - udm
+Ugaritic                      - uga
+Uighur                        - ug
+Uighur                        - uig
+Ujir                          - udj
+Ukrainian                     - uk
+Ukrainian                     - ukr
+Ukwa                          - ukq
+Ulch                          - ulc
+Ulithian                      - uli
+Ulumanda'                     - ulm
+Umbrian                       - xum
+Umbundu                       - umb
+Ume Sami                      - sju
+Unami                         - unm
+Unknown Language              - und
+Unserdeutsch                  - uln
+Upper Sorbian                 - hsb
+Upper Tanana                  - tau
+Upper Taromi                  - tov
+Ura                           - uur
+Urdu                          - ur
+Urdu                          - urd
+Urhobo                        - urh
+Urim                          - uri
+Urubú-Kaapor                  - urb
+Urum                          - uum
+Usarufa                       - usa
+Ushojo                        - ush
+Uspanteco                     - usp
+Uzbek                         - uz
+Uzbek                         - uzb
+Vaagri Booli                  - vaa
+Vai                           - vai
+Vandalic                      - xvn
+Vanimo                        - vam
+Varhadi-Nagpuri               - vah
+Vehes                         - val
+Veluws                        - vel
+Venda                         - ve
+Venda                         - ven
+Venetian                      - vec
+Venetic                       - xve
+Vengo                         - bav
+Ventureño                     - veo
+Veps                          - vep
+Vestinian                     - xvs
+Vidunda                       - vid
+Vietnamese                    - vi
+Vietnamese                    - vie
+Vinza                         - vin
+Vlaams                        - vls
+Vlax Romani                   - rmy
+Volapük                       - vo
+Volapük                       - vol
+Volscian                      - xvo
+Votic                         - vot
+Vunjo                         - vun
+Vwanji                        - wbi
+Võro                          - vro
+Wabo                          - wbb
+Waffa                         - waj
+Wageman                       - waq
+Waima                         - rro
+Wakhi                         - wbl
+Walamo                        - wal
+Wallisian                     - wls
+Walloon                       - wa
+Walloon                       - wln
+Walmajarri                    - wmt
+Walo Kumbe Dogon              - dwl
+Wambaya                       - wmb
+Wampanoag                     - wam
+Wan                           - wan
+Wanda                         - wbh
+Wandala                       - mfi
+Wandamen                      - wad
+Wangaaybuwan-Ngiyambaa        - wyb
+Wantoat                       - wnc
+Wanukaka                      - wnk
+Wappo                         - wao
+War-Jaintia                   - aml
+Warao                         - wba
+Waray                         - war
+Waray                         - wrz
+Wares                         - wai
+Waris                         - wrs
+Warji                         - wji
+Warlpiri                      - wbp
+Waropen                       - wrp
+Warrgamay                     - wgy
+Waskia                        - wsk
+Waurá                         - wau
+Wawa                          - www
+Wayampi                       - oym
+Wayu                          - vay
+Wayuu                         - guc
+Wejewa                        - wew
+Welsh                         - cy
+Welsh                         - cym
+West Berawan                  - zbw
+West Central Oromo            - gaz
+West Kewa                     - kew
+West Yugur                    - ybe
+Western Abnaki                - abe
+Western Apache                - apw
+Western Arrarnta              - are
+Western Canadian Inuktitut    - ikt
+Western Frisian               - fry
+Western Frisian               - fy
+Western Kanjobal              - knj
+Western Kayah                 - kyu
+Western Keres                 - kjq
+Western Maninkakan            - mlq
+Western Mari                  - mrj
+Western Ojibwa                - ojw
+Western Panjabi               - pnb
+Western Sisaala               - ssl
+Wichita                       - wic
+Wik-Epa                       - wie
+Wik-Mungkan                   - wim
+Wik-Ngathana                  - wig
+Wintu                         - wit
+Wintu                         - wnw
+Wipi                          - gdr
+Wiradhuri                     - wrh
+Wogeo                         - woc
+Woi                           - wbw
+Wojenaka                      - jod
+Wolio                         - wlo
+Wolof                         - wo
+Wolof                         - wol
+Worimi                        - kda
+Wu Chinese                    - wuu
+Wuzlam                        - udl
+Wyandot                       - wya
+Wymysorys                     - wym
+Xaasongaxango                 - kao
+Xamtanga                      - xan
+Xaragure                      - axx
+Xavánte                       - xav
+Xetá                          - xet
+Xhosa                         - xh
+Xhosa                         - xho
+Xibe                          - sjo
+Xinca                         - xin
+Xipaya                        - xiy
+Xârâcùù                       - ane
+Yabem                         - jae
+Yaeyama                       - rys
+Yagnobi                       - yai
+Yagua                         - yad
+Yakan                         - yka
+Yalunka                       - yal
+Yamba                         - yam
+Yami                          - tao
+Yaminahua                     - yaa
+Yamna                         - ymn
+Yana                          - ynn
+Yanda Dom Dogon               - dym
+Yanesha'                      - ame
+Yangkam                       - bsx
+Yankunytjatjara               - kdd
+Yanyuwa                       - jao
+Yao                           - yao
+Yaouré                        - yre
+Yapese                        - yap
+Yaqui                         - yaq
+Yareba                        - yrb
+Yatzachi Zapotec              - zav
+Yavitero                      - yvt
+Yawa                          - yva
+Yawuru                        - ywr
+Yazgulyam                     - yah
+Yelmek                        - jel
+Yemsa                         - jnj
+Yendang                       - yen
+Yendang                       - ynq
+Yeskwa                        - yes
+Yeyi                          - yey
+Yiddish                       - yi
+Yiddish                       - yid
+Yidgha                        - ydg
+Yidiny                        - yii
+Yil                           - yll
+Yindjibarndi                  - yij
+Yine                          - pib
+Yir Yoront                    - yiy
+Yir Yoront                    - yyr
+Yokuts                        - yok
+Yola                          - yol
+Yom                           - pil
+Yonaguni                      - yoi
+Yopno                         - yut
+Yoruba                        - yo
+Yoruba                        - yor
+Yosondúa Mixtec               - mpm
+Yuaga                         - nua
+Yucateco                      - yua
+Yuchi                         - yuc
+Yucuna                        - ycn
+Yugh                          - yuu
+Yuki                          - yuk
+Yukpa                         - yup
+Yurok                         - yur
+Yurutí                        - yui
+Yámana                        - yag
+Zaghawa                       - zag
+Zanaki                        - zak
+Zande                         - zne
+Zapotec                       - zap
+Zaramo                        - zaj
+Zarma                         - dje
+Zarphatic                     - zrp
+Zayse-Zergulla                - zay
+Zaza                          - zza
+Zeeuws                        - zea
+Zenaga                        - zen
+Zhang-Zhung                   - xzh
+Zhuang                        - za
+Zhuang                        - zha
+Zia                           - zia
+Zigula                        - ziw
+Zimba                         - zmb
+Zinza                         - zin
+Zoogocho Zapotec              - zpq
+Zoroastrian Dari              - gbz
+Zulgo-Gemzek                  - gnd
+Zulu                          - zu
+Zulu                          - zul
+Zuni                          - zun
+Záparo                        - zro
+Àhàn                          - ahn
+Ömie                          - aom
+Önge                          - oon
