@@ -7,11 +7,12 @@ Various language learning and  language information projects
 
 
 kbbi.py           - Access the Bahasa Kamus Indonesia Online dictionary from a terminal
+
                     Usage : python kbbi.py malam 
 
 kateglo.py        - Access Kateglo Indonesian / English Dictionary  from a terminal
-
                     for google translation search for soimort translate.awk on github
+
                     Usage : python kateglo.py malam
 
 glosbe.py         - Access glosbe.com world language repository from a terminal
@@ -25,7 +26,7 @@ mecabTest.py      - Testing japanese lexer mecab output
 
 
 
-requirements.txt   not yet provided
+requirements.txt  -  not yet provided
 
 
 
