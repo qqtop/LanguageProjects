@@ -4,21 +4,8 @@ import sys
 import requests,json,subprocess
 from pprint import pprint
 
-# initial version
-# accessing Indonesian - English Dictionary at kateglo
-# http://pastebin.com/AFY0DFGZ
 
-# this is now an improved version
-# which also inludes translation for all_relation phrases
-# but it hits google hard
-# 
-# also we cud try to parse some stuff from the kateglo proverb site
-# and translate it , but this is currently not required..
-
-# functionality here used now in qtJJ2.py ! ID button
-
-# now moved google trans to doTranslate and added translation to def_text,sample,proverbs
-#http://pastebin.com/xaBP4Uep
+# Accessing Indonesian - English Dictionary at kateglo
 # latest 2014-05-27
 
 
@@ -139,7 +126,6 @@ def proverbMaster(theWord):
 
 def relator(data):
        #print data['kateglo']['all_relation']
-
        # for a nicer output we precalc the max length of k
        kmax=0
        rlResult=[]
@@ -180,22 +166,12 @@ def relator(data):
 		          #rlResult.append(relx)
 		    		      
 		      tm = doTranslate(zd[k])
-		      
-		      
 		      rlResult.append(zd[k]+' '*(rlmax-len(zd[k]))+'  -  '+tm.decode('utf8'))
-		         
-
-                      # however we are hitting google a lot , it wud be better to
-                      # have this in one call , however this means packing unpacking 
-                      # tried but if we do not one by one we might not be able
-                      # to align correctly if google returns more than one result
-                      # so above is still the best if we want a translation for all_relations
-                           
+		                      
 		      
 		    except:
 		        raise
-		      
-		      
+		       
 	 
 
        except:
