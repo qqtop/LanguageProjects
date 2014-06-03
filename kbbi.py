@@ -10,8 +10,6 @@ import time
 # version 0.85
 # Note : improved parsing memuat section for suggestions of root word or others per kbbi
 
-# http://pastebin.com/YyCNtFcF  
-
 
 def aline():
     # just print a seperator line

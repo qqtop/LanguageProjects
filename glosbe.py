@@ -15,8 +15,6 @@ import time
 
 # usage :   python glosbe.py en  jpn   sleeping bag    <--- fromlang  tolang  words
 
-#http://pastebin.com/VvnamFPg
-#http://pastebin.com/mb19CVHJ
 
 def aline():
     # just print a seperator line

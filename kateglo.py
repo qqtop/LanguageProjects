@@ -156,15 +156,7 @@ def relator(data):
 	    for k in zd:
 		  if k=="related_phrase": # comment this out to get the whole data block and prappend k, to below statement
 		    try:
-		      #rlResult.append(' '*(kmax-len(k))+' '+zd[k]) 
-		      # we also try to get the translations for the relations so
-		      # while this works for single words it does not for two words yet
-		      # like ikan asin tried this..
-		      #datarel=getData(zd[k])
-		      #reltr=translator(datarel)
-		      #for relx in reltr:
-		          #rlResult.append(relx)
-		    		      
+		      	      
 		      tm = doTranslate(zd[k])
 		      rlResult.append(zd[k]+' '*(rlmax-len(zd[k]))+'  -  '+tm.decode('utf8'))
 		                      
