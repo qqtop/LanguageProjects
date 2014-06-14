@@ -4,10 +4,10 @@ LanguageProjects
 ================
 
 
-Various language learning and language information projects
+Various language learning and language information projects for the Linux terminal
 
 
-kbbi.py           - Access the Bahasa Kamus Indonesia Online dictionary from a terminal
+kbbi.py           - Access the Bahasa Kamus Indonesia Online Dictionary from a terminal
 
                     Usage : python kbbi.py malam 
 
@@ -28,5 +28,7 @@ mecabTest.py      - Testing japanese lexer mecab output
 
 requirements.txt  -  not yet provided
 
+
+Tested on Linux only.
 
 

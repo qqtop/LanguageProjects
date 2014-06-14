@@ -1,12 +1,12 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
-import sys
+import os,sys
 import requests,json,subprocess
 from pprint import pprint
 
 
 # Accessing Indonesian - English Dictionary at kateglo
-# latest 2014-05-27
+# latest 2014-06-14
 
 
 
@@ -28,13 +28,18 @@ def getData(theWord):
 def doTranslate(zx):
     
     tm=''
-    if len(zx)> 1:
-	s = 'awk -f /data4/PythonStuff/Python/QtPython/qtJapan/translate.awk {=en} %s' % '"' + zx + '"'  # yeah escape like this so we get rid of errors for high comma words like : I'm nice
-	p = subprocess.Popen(s, stdout=subprocess.PIPE, shell=True)
-	output, err = p.communicate()
-	tm = output.rstrip()
-	tm = tm.replace('\n', ' ').replace('\r', '')  # \r also catches carriage returns
-	tm = tm + '  [G]'  # mark it as google translation
+    
+    if os.path.isfile('translate.awk'):
+           
+	if len(zx)> 1:
+	    
+	    s = 'awk -f translate.awk {=en} %s' % '"' + zx + '"'  # yeah escape like this so we get rid of errors for high comma words like : I'm nice
+	    p = subprocess.Popen(s, stdout=subprocess.PIPE, shell=True)
+	    output, err = p.communicate()
+	    tm = output.rstrip()
+	    tm = tm.replace('\n', ' ').replace('\r', '')  # \r also catches carriage returns
+	    tm = tm + '  [G]'  # mark it as google translation
+	    
     return tm
 
 
