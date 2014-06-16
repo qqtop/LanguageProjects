@@ -12,11 +12,13 @@ import os,sys,time
 #          python gkamus.py
 
 aWord=''
+
 global tc
 tc=0
+
 def gkamid(sw):
   global tc
-  global linelist
+  
   s=1
   c=0
   with open('gkamus-id.dict','r+') as f:
@@ -30,6 +32,7 @@ def gkamid(sw):
  
 def gkamen(sw):
   global tc
+
   s=1
   c=0
   with open('gkamus-en.dict','r+') as f:
@@ -47,7 +50,6 @@ while 1:
       start=time.clock()
       if aWord=='':
         tc=0
-	linelist=[]
 	print '-'*100
 	theWord=raw_input('\nWord/Kata :  ')
       else:
