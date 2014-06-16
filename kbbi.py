@@ -69,13 +69,14 @@ except:
   print '\n\nAttention : Default word used ! '
   print 'Usage     : python kbbi.py YOURWORD\n'
   theWord= 'doyan'  # a default word  
-  
+
+aline()  
 processData(theWord)
   
   
 end=time.clock()
-print '\n\nBye Bye \n\n'
+aline()
 print 'Duration : ',end-start,' secs'
-print 'Tested on Linux. Is there anything else ? \n'
+print 'Kamus Besar Bahasa Indonesia (KBBI) \n'
 # usage:  python kbbi.py abadi
 

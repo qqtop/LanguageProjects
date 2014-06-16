@@ -1,7 +1,7 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 import os,sys
-import requests,json,subprocess
+import requests,json,subprocess,time
 from pprint import pprint
 
 
@@ -17,6 +17,7 @@ def aline():
 
 def getData(theWord):
     r= requests.get('http://kateglo.com/api.php?format=json&phrase=%s' % theWord)
+                         
     try:
         
         jdata = json.loads(r.text)
@@ -180,7 +181,8 @@ def relator(data):
 
 
 	      
-
+## Main
+start=time.clock()
 try:
   print '\n\nResults for : \n\n'
   print sys.argv[1]
@@ -230,6 +232,6 @@ else:
 #print 'Test for proverbMaster'
 #pm=proverbMaster(theWord)
 
-  
-
-print '\nBye Bye and Thank You Kateglo\n\n'
+end=time.clock()
+print '\nDuration : ',end-start,' secs' 
+print 'Kateglo - Kamus, Tesaurus dan Glosarium bahasa Indonesia.\n\n'
