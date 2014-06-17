@@ -31,9 +31,11 @@ gkamus-id.dict    - Opensource Indonesia/English Dictionary data
 
 gkamus-en.dict    - Opensource English/Indonesian Dictionary data
 
-requirements.txt  -  not yet provided
+requirements.txt  - Not yet provided
 
 
-Tested on Linux only.
+Coded for Linux only.
+
+Always under development.
 
 
