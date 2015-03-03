@@ -31,6 +31,8 @@ gkamus-id.dict    - Opensource Indonesia/English Dictionary data
 
 gkamus-en.dict    - Opensource English/Indonesian Dictionary data
 
+indoG6.py         - Wrapper around translate-shell from soimort
+
 requirements.txt  - Not yet provided
 
 
