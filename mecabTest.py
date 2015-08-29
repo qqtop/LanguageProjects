@@ -1,7 +1,8 @@
 # coding:utf-8
 import MeCab
 
-# worked ok 2014-05-24
+# worked ok 2015-08-29
+
 
 test = "授業で日本語文書を単語に切り分けて，索引語リストを作りtf-idfを求めよという課題が出たので"
 

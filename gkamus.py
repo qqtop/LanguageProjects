@@ -14,6 +14,7 @@ print '\n\n'
 # Usage :  python gkamus.py  seteleah
 #          python gkamus.py
 
+
 global tc
 tc = 0
 global sl

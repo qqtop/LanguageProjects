@@ -10,12 +10,12 @@ from pprint import pprint
 
 
 # Accessing Indonesian - English Dictionary at kateglo
-# latest 2014-06-14
+# latest 2015-08-29
 
 
 def aline():
     # just print a seperator line
-    print '-' * 100
+    print '-' * 80
 
 
 def getData(theWord):

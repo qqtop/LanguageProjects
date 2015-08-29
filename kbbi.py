@@ -10,11 +10,12 @@ import time
 # version 0.85
 # Note : improved parsing memuat section for suggestions of root word or
 # others per kbbi
+# for not found words there maybe some google ad gruft returned
 
 
 def aline():
     # just print a seperator line
-    print '-' * 100
+    print '-' * 80
 
 
 def getData(theWord):
@@ -54,9 +55,9 @@ def processData(dx):
         try:
             sxtchz = sxtch[1].split('Pranala')
             print 'Try with these suggestions provided by kbbi (if any)  :'
-            # occasionaly there is are subscripts
+            # occasionaly there are subscripts
+            #if not sxtchz.contains(".adslot"):
             print sxtchz[0].replace('1', '\n').replace('2', '\n').replace('3', '\n')
-
         except:
             pass
 

@@ -9,10 +9,16 @@ import time
 # glosbe.py
 # version 0.6
 # using glosbe api
+# 
 # this version will do translation of a word and try to get some
 # example sentences , phrases and meanings if avaialable from glosbe
+# 
 # Note : changed argument order to better handle multiple words input
 #        future version will check for correct language code
+#        
+# Due to recent changes in urllib3 thee maybe warnings
+# overall glosbe is only of limited use as google and other sources
+# have better quality       
 
 # usage :   python glosbe.py en  jpn   sleeping bag    <--- fromlang
 # tolang  words
