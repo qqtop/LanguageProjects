@@ -10,9 +10,7 @@ Various language learning and language information projects for the Linux termin
 kbbi.py           - Access the Bahasa Kamus Indonesia Online Dictionary from a terminal
 
                     Usage : python kbbi.py malam 
-
-                    Usage : python glosbe.py en jpn train station
-                    
+                                  
 gkamus.py         - Uses opensource dictionary files Indonesia/English from http://gkamus.sourceforge.net                    
 
                     Usage : python gkamus.py
